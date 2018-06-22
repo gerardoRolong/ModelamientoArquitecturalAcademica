@@ -14,7 +14,8 @@
 
 ### Vista Organizacional
 
-![vp organizacional](https://user-images.githubusercontent.com/24967174/41786246-a24e1e04-760a-11e8-8515-3176327eb1d0.jpg)
+![vp organizacional](https://user-images.githubusercontent.com/24967174/41786893-57cf9c66-760c-11e8-9c99-5d2c0b951c95.jpg)
+
 
 
 
