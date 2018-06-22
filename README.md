@@ -16,8 +16,7 @@
 
 ![vp organizacional](https://user-images.githubusercontent.com/24967174/41786893-57cf9c66-760c-11e8-9c99-5d2c0b951c95.jpg)
 
+### Vista Colaboracion de Actores
 
-
-
-
+![vp cooperacionactores](https://user-images.githubusercontent.com/24967174/41788825-a3f35e88-7612-11e8-86d6-e461542ef0e6.jpg)
 
