@@ -6,7 +6,7 @@
 - Carlos Gutierrez Ardila 20141020033
 - Sebastian Bohorquez Daza 20141020008
 - Gerardo Rolong Agudelo 20141020028
-- Robinson Buitagro Pinilla 20141020127
+- Robinson Andres Buitrago Pinilla 20141020127
  
  ### Vista Introductoria 
 
