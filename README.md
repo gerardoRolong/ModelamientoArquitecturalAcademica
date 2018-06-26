@@ -20,3 +20,10 @@
 
 ![vp cooperacionactores](https://user-images.githubusercontent.com/24967174/41788825-a3f35e88-7612-11e8-86d6-e461542ef0e6.jpg)
 
+### Vista Funciones de negocio
+
+![vp funciones de negocio](https://user-images.githubusercontent.com/24967174/41926386-cd415630-7934-11e8-8997-b0f73bb4e903.jpg)
+
+### Vista Procesos de negocio
+
+
