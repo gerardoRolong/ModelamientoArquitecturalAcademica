@@ -26,4 +26,5 @@
 
 ### Vista Procesos de negocio
 
+![vp procesos de negocio](https://user-images.githubusercontent.com/22508392/41972963-21737216-79d9-11e8-9bc1-d59b261d58c2.jpg)
 
