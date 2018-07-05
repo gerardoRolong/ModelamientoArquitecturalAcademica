@@ -33,6 +33,41 @@ Se propone utilizar microservicios por la facilidad de escalabilidad que ofrece,
 
 ### Vista Procesos de negocio
 
-![vp procesos de negocio](https://user-images.githubusercontent.com/22508392/41983844-cb43ff2a-79f4-11e8-8aea-12e2d1f050fe.jpg)
+#### Evaluar docente
+![vp proceso evaluar docente](https://user-images.githubusercontent.com/24967174/42332169-fa499566-803c-11e8-8b38-4b8423709e06.jpg)
+#### Generar reporte evaluación
+![vp proceso generar reporte evaluacion](https://user-images.githubusercontent.com/24967174/42332171-fa623c9c-803c-11e8-859d-e0a7be3c1292.jpg)
+#### Gestión movilidad estudiantes externos
+![vp proceso gestion movilidad estudiantes externos](https://user-images.githubusercontent.com/24967174/42332172-fa7ab56a-803c-11e8-863d-7261176e3445.jpg)
+#### Gestión notas
+![vp proceso gestion notas](https://user-images.githubusercontent.com/24967174/42332174-fa96041e-803c-11e8-9d1c-d6dd9fe78767.jpg)
+#### Grados
+![vp proceso grado](https://user-images.githubusercontent.com/24967174/42332175-faae0cd0-803c-11e8-969e-7e091eb87ba3.jpg)
+#### Inscripcion cancelación por consejerias
+![vp proceso inscripcion-cancelacion por consejerias](https://user-images.githubusercontent.com/24967174/42332176-fac27530-803c-11e8-9239-649fc47e61d8.jpg)
+#### Inscripciones
+![vp proceso inscripciones](https://user-images.githubusercontent.com/24967174/42332177-fad823b2-803c-11e8-8ce9-13f4207f080a.jpg)
+#### Monitorias
+![vp proceso monitoria](https://user-images.githubusercontent.com/24967174/42332178-faef299a-803c-11e8-8e13-763815435563.jpg)
+#### Movilidad estudiantes
+![vp proceso movilidad estudiantes ud](https://user-images.githubusercontent.com/24967174/42332179-fb0445e6-803c-11e8-8fc3-7f7899a3d56d.jpg)
+#### Plan de estudio
+![vp proceso plan de estudio](https://user-images.githubusercontent.com/24967174/42332180-fb1a341e-803c-11e8-8fdc-f62d9d8e9a40.jpg)
+#### Proyecto de grado
+![vp proceso proyecto de grado](https://user-images.githubusercontent.com/24967174/42332181-fb300c62-803c-11e8-984f-9100f7bf69de.jpg)
+#### Prueba academica
+![vp proceso prueba academica](https://user-images.githubusercontent.com/24967174/42332182-fb46e036-803c-11e8-88d8-a5e47347b331.jpg)
+#### Ver planta docente
+![vp proceso ver planta docente](https://user-images.githubusercontent.com/24967174/42332183-fb5f9766-803c-11e8-8524-4f66fb79cd02.jpg)
+#### Ver reporte evaluacion docente
+![vp proceso ver reporte evaluacion docente](https://user-images.githubusercontent.com/24967174/42332184-fb760c8a-803c-11e8-8b6d-6fd6ff92a1bb.jpg)
+#### Actualizar planta docente
+![vp proceso actualizar planta docente](https://user-images.githubusercontent.com/24967174/42332186-fb8eda62-803c-11e8-9c9e-439c52f00575.jpg)
+#### Admisiones
+![vp proceso admisiones](https://user-images.githubusercontent.com/24967174/42332188-fba9c0a2-803c-11e8-9809-c3083a8819a0.jpg)
+#### Asignar docente consejero
+![vp proceso asignar docente consejero](https://user-images.githubusercontent.com/24967174/42332189-fbc4da0e-803c-11e8-8a5d-1d7e589e5150.jpg)
+#### Carga documental
+![vp proceso carga documental](https://user-images.githubusercontent.com/24967174/42332191-fbdc6a84-803c-11e8-8237-dce04a9631be.jpg)
 
 
