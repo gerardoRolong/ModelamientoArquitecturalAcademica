@@ -70,4 +70,12 @@ Se propone utilizar microservicios por la facilidad de escalabilidad que ofrece,
 #### Carga documental
 ![vp proceso carga documental](https://user-images.githubusercontent.com/24967174/42332191-fbdc6a84-803c-11e8-8237-dce04a9631be.jpg)
 
+### Cooperacion de aplicación
 
+![vp cooperacion de aplicacion](https://user-images.githubusercontent.com/24967174/42389370-206bffa0-810e-11e8-9660-15db6db06c9a.jpg)
+### Uso de aplicacion
+
+#### Admisiones
+![vp uso de aplicacion - admisiones](https://user-images.githubusercontent.com/24967174/42389375-23fafc0c-810e-11e8-8b6a-cd922a72b666.jpg)
+#### Evaluación docente
+![vp uso de aplicacion - evaluacion docente](https://user-images.githubusercontent.com/24967174/42389378-25110bcc-810e-11e8-87c3-d8251dec4e40.jpg)
