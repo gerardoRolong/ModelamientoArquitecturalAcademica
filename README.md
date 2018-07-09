@@ -29,7 +29,7 @@ Se propone utilizar microservicios por la facilidad de escalabilidad que ofrece,
 
 ### Vista Funciones de negocio
 
-![vp funciones de negocio](https://user-images.githubusercontent.com/24967174/41926386-cd415630-7934-11e8-8997-b0f73bb4e903.jpg)
+![vp funciones de negocio](https://user-images.githubusercontent.com/24967174/42462412-d35a4854-8368-11e8-9016-abd81ce8de37.jpg)
 
 ### Vista Procesos de negocio
 
