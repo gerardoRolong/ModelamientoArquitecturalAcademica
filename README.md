@@ -79,3 +79,7 @@ Se propone utilizar microservicios por la facilidad de escalabilidad que ofrece,
 ![vp uso de aplicacion - admisiones](https://user-images.githubusercontent.com/24967174/42389375-23fafc0c-810e-11e8-8b6a-cd922a72b666.jpg)
 #### Evaluación docente
 ![vp uso de aplicacion - evaluacion docente](https://user-images.githubusercontent.com/24967174/42389378-25110bcc-810e-11e8-87c3-d8251dec4e40.jpg)
+
+### Uso de Infraestructura
+![vp uso de infraestructura](https://user-images.githubusercontent.com/24967174/42461301-c2f4e026-8365-11e8-9eec-2e762f675164.jpg)
+
