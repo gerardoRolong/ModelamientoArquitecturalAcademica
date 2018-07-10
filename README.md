@@ -11,7 +11,7 @@
 
 ## Justificación de la arquitectura propuesta  
 
-Se propone utilizar microservicios por la facilidad de escalabilidad que ofrece, la reducción del acoplamiento y  dependencia entre módulos; además de la posibilidad de utilizar distintas tecnologías que interactuén entre si y hacer el sistema más resistente a fallos y resiliente. Por su parte hacer uso de tecnologías serverless, permite que algunas de las funciones de negocio puedan disponer dinamicamete de la cantidad de recursos que necesiten para su plena ejecución, haciendo el más eficiente.
+Se propone utilizar microservicios por la facilidad de escalabilidad que ofrece, la reducción del acoplamiento y  dependencia entre módulos; además de la posibilidad de utilizar distintas tecnologías que interactuén entre si y hacer el sistema más resistente a fallos y resiliente. Por su parte hacer uso de tecnologías serverless, permite que algunas de las funciones de negocio puedan disponer dinamicamete de la cantidad de recursos que necesiten para su plena ejecución, haciendolo más eficiente.
 
 
  
